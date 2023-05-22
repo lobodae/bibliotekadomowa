@@ -10,7 +10,7 @@ session_start();
 
     <meta charset="UTF-8"><!--wyswietlanie polskich znakow -->
 
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="../index.css">
     <title>BIBLIOTEKA DOMOWA - Rejestracja użytkownika</title>
 </head>
 
