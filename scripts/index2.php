@@ -1,5 +1,5 @@
 <?php
-//DODAWANIE UŻYTKOWNIKA 
+//DODAWANIE UŻYTKOWNIKA wsm nie działają te alerty xd
 
 // //sanityzacja, abysmy nie mieli znakow specjalnych w inputach
 // function sanitizeInput($input)
